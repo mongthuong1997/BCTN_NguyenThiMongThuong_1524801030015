@@ -1,0 +1,6 @@
+.text-center{
+	float: left;position: relative;left: 50%;
+}
+.pagination{
+	float: left;position: relative;left: -50%;
+}
